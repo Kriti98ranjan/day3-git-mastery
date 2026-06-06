@@ -1,6 +1,7 @@
 // calculator.js
 function add(a, b) {
   //console.log("Adding", a, "and", b);
+  //console2
   return a + b;
 }
 
