@@ -26,3 +26,5 @@ module.exports = { add, subtract, multiply, divide, square };// version 1.1
 function modulo(a, b){ return a % b; }
 console.log("Calculator loaded");
 // final version
+
+// work in progress
