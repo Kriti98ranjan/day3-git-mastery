@@ -22,4 +22,4 @@ module.exports = { add, subtract, multiply, divide };
 function square(a) {
   return a * a;
 }
-module.exports = { add, subtract, multiply, divide, square };
+module.exports = { add, subtract, multiply, divide, square };// version 1.1
