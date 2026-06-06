@@ -1,6 +1,7 @@
 // calculator.js
 function add(a, b) {
   //console.log("Adding from Clone-1");
+  //console.log("Adding from Clone-2");
   return a + b;
 }
 
